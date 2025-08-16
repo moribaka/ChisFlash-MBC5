@@ -67,21 +67,20 @@ beggar_socket的web应用：https://github.com/tautcony/beggar_socket
 
 
 PCB图片：
- 
+
+ChisFlash_MBC5_8M 
 ![ChisFlash_MBC5_8M](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_8M.png)
 
-ChisFlash_MBC5_8M
-
+ChisFlash_MBC5_8M_PLUS
 ![ChisFlash_MBC5_8M_PLUS](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_8M_PLUS.png)
 
-ChisFlash_MBC5_8M_PLUS
-
-![ChisFlash_MBC5_MAX_32M](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_MAX_32M.png)
 
 ChisFlash_MBC5_MAX_32M
-
-![ChisFlash_MBC5_MAX_32M_R0603](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_MAX_32M_R0603.png)
+![ChisFlash_MBC5_MAX_32M](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_MAX_32M.png)
 
 ChisFlash_MBC5_MAX_32M_R0603
+![ChisFlash_MBC5_MAX_32M_R0603](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_MAX_32M_R0603.png)
+
+
 
 
