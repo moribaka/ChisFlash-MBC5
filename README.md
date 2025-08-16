@@ -1,5 +1,6 @@
 嘉立创开源地址：
 https://oshwhub.com/morinaka/chisflash-mbc5-gbc-shao-lu-ka
+
 https://oshwhub.com/morinaka/chisflash-mbc5-max-32m-gbc-shao-lu-ka
 
 目前大部分GB烧录卡都是从正版卡上面拆芯片来制作，可以说是拆一张少一张，虽然我也不玩正版卡但看着有点心疼就想着能不能用CPLD替代MBC芯片，于是就有了这个项目。
