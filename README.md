@@ -55,19 +55,25 @@ ChisFlash是一个大型的复古游戏机相关的开源复刻项目，旨在�
 
 联动：
 开源的GBA烧录卡chisflash：https://github.com/ChisBread/ChisFlash
+
 GBA大小的款式mini-ChisMBC5：https://oshwhub.com/cidazl/mini-chis-mbc5gbc-burn-card
+
 专为GBA设计的多功能便携式卡带编程器chislink：https://github.com/ChisBread/ChisLink
  
 ![ChisFlash_MBC5_8M](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_8M.png)
+
 ChisFlash_MBC5_8M
 
 ![ChisFlash_MBC5_8M_PLUS](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_8M_PLUS.png)
+
 ChisFlash_MBC5_8M_PLUS
 
 ![ChisFlash_MBC5_MAX_32M](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_MAX_32M.png)
+
 ChisFlash_MBC5_MAX_32M
 
 ![ChisFlash_MBC5_MAX_32M_R0603](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_MAX_32M_R0603.png)
+
 ChisFlash_MBC5_MAX_32M_R0603
 
 
