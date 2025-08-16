@@ -60,6 +60,13 @@ ChisFlash是一个大型的复古游戏机相关的开源复刻项目，旨在�
 GBA大小的款式mini-ChisMBC5：https://oshwhub.com/cidazl/mini-chis-mbc5gbc-burn-card
 
 专为GBA设计的多功能便携式卡带编程器chislink：https://github.com/ChisBread/ChisLink
+
+为ChisFlash设计的一款烧录器beggar_socket：https://github.com/julpage/beggar_socket
+
+beggar_socket的web应用：https://github.com/tautcony/beggar_socket
+
+
+PCB图片：
  
 ![ChisFlash_MBC5_8M](https://github.com/moribaka/ChisFlash-MBC5/blob/main/picture/ChisFlash_MBC5_8M.png)
 
