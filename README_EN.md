@@ -2,7 +2,7 @@
 
 > An open-source `Game Boy / Game Boy Color` MBC5 flash cartridge project based on `CPLD (EPM240)`, covering `8M`, `8M Plus`, `32M MAX`, and `32M MAX R0603` variants.
 
-[????](README.md) | English
+[简体中文](README.md) | English
 
 Docs: [docs/README.md](docs/README.md)
 
