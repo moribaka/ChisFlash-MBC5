@@ -1,0 +1,7 @@
+* text=auto
+
+*.png binary
+*.zip binary
+*.pof binary
+*.epro binary
+*.gb binary
