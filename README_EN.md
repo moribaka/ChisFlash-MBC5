@@ -70,6 +70,11 @@ The project references `NekoCart-GB`, while reworking the board design, schemati
 - The `Plus` version uses a level shifter; ordinary build compatibility with AP handhelds still needs more community testing
 - Future work mentions rumble support and more multicart combinations
 
+## Licensing Note
+
+- This repository currently includes a `GPL-3.0` license file.
+- If you plan commercial products based on this project, it is recommended to contact the author first so versioning, attribution, and coordination stay clear.
+
 ## Credits And Related Projects
 
 - `NekoCart-GB`: <https://github.com/zephray/NekoCart-GB>
